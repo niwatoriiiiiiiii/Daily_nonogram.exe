@@ -1,7 +1,7 @@
 # 🔷Daily_nonogram<br>
 
 > [!CAUTION]
-> docsファイルをダウンロードして、中のDaily_nonogram.exeを起動してください。<br>
+> Gameファイルをダウンロードして、中のDaily_nonogram.exeを起動してください。<br>
 
 ## 📝説明<br>
 
