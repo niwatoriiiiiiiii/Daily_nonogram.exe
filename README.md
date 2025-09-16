@@ -1,5 +1,7 @@
 # 🔷Daily_nonogram<br>
 
+<img width="1773" height="997" alt="Daily_nonogram_welcome" src="https://github.com/user-attachments/assets/61211b63-cbad-4db4-9290-ed19f25840f4" /><br>
+
 > [!NOTE]
 > **ダウンロード方法**<br>
 > 1. Zipファイルをダウンロードしてください。
